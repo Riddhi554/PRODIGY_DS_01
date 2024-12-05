@@ -1,8 +1,8 @@
-# Data Science Internship Tasks  
+# Data Science Internship Tasks 🧑‍💻
 
 A collection of tasks and projects completed during my data science internship at Prodigy InfoTech, showcasing various technical skills, data analysis, and machine learning solutions.  
 
-## Task 1: Visualizing Data Distribution  
+## Task 1: Visualizing Data Distribution 📊  
 **Objective:** Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.  
 
 **Key steps included:**  
@@ -14,7 +14,7 @@ A collection of tasks and projects completed during my data science internship a
 
 ---
 
-## Task 2: Data Cleaning and Exploratory Data Analysis (Titanic Dataset)  
+## Task 2: Data Cleaning and Exploratory Data Analysis (Titanic Dataset) 🧳  
 **Objective:** Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset to explore relationships between variables and identify patterns and trends in the data.  
 
 **Key steps included:**  
@@ -35,12 +35,31 @@ A collection of tasks and projects completed during my data science internship a
 
 ---
 
-## Tasks Overview  
+## Task 3: Decision Tree Classifier for Predicting Customer Purchases 🌳  
+**Objective:** Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data.  
+
+**Key steps included:**  
+- Dataset overview: Explored the bank marketing campaign dataset.  
+- Preprocessing:  
+  - Encoded categorical variables using `LabelEncoder`.  
+  - Replaced 'unknown' values in some columns with 'other'.  
+- Applied **SMOTE** to handle class imbalance.  
+- Split data into training and testing sets.  
+- Hyperparameter tuning using **GridSearchCV** to optimize the decision tree model.  
+- Evaluated the model using accuracy score and classification report.  
+- Implemented a prediction function for real-time customer purchase predictions.  
+
+**Dataset:**  
+- Source: [Kaggle - Bank Marketing Campaign Dataset](https://www.kaggle.com/code/janiobachmann/bank-marketing-campaign-opening-a-term-deposit)  
+
+---
+
+## Tasks Overview 📝  
 1. **Task 1**: Visualizing Data Distribution (Gender and Class Levels).  
 2. **Task 2**: Data Cleaning and EDA on Titanic Dataset.  
+3. **Task 3**: Decision Tree Classifier for Customer Purchase Prediction.  
 
-## Getting Started  
+## Getting Started 🚀  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/riddhi554/Prodigy-InfoTech-DataScience.git  
-  
+   git clone https://github.com/Riddhi554/Prodigy-InfoTech-DataScience.git  
