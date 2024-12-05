@@ -43,4 +43,4 @@ A collection of tasks and projects completed during my data science internship a
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/riddhi554/Prodigy-InfoTech-DataScience.git  
-  ```
+  
